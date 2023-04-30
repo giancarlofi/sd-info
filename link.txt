@@ -1,0 +1,6 @@
+Sandisk
+https://github.com/Ognian/sdmon 
+
+Transcend (sono gli stessi)
+https://github.com/transcend-information/RaspberryPi-SDcard-SMARTQuery
+https://github.com/giancarlofi/mmc-rpi
